@@ -1,0 +1,26 @@
+{
+  "name": "se-liberta-brasil",
+  "version": "1.0.0",
+  "description": "Plataforma aberta e transparente com informações sobre políticos e candidatos brasileiros",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js",
+    "test": "echo \"No tests specified yet\" && exit 0"
+  },
+  "keywords": [
+    "brasil",
+    "politica",
+    "transparencia",
+    "candidatos",
+    "eleições"
+  ],
+  "author": "Se Liberta Brasil Community",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucasitdias/SE-LIBERTA-BRASIL.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

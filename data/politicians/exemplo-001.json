@@ -1,0 +1,48 @@
+{
+  "id": "exemplo-001",
+  "nome": "Maria das Graças Silva",
+  "nome_urna": "Maria Silva",
+  "data_nascimento": "1980-05-20",
+  "partido": {
+    "sigla": "EXEMPLO",
+    "nome": "Partido Exemplo",
+    "numero": 99
+  },
+  "cargo_atual": {
+    "titulo": "Deputada Federal",
+    "mandato_inicio": "2023-02-01",
+    "mandato_fim": "2027-01-31",
+    "localidade": "São Paulo"
+  },
+  "historico": [
+    {
+      "cargo": "Vereadora",
+      "periodo": "2017-2020",
+      "localidade": "São Paulo - SP"
+    }
+  ],
+  "contato": {
+    "email": "contato@exemplo.gov.br",
+    "website": "https://exemplo.com.br"
+  },
+  "propostas": [
+    {
+      "titulo": "Educação para Todos",
+      "descricao": "Ampliar acesso à educação de qualidade",
+      "area": "Educação"
+    },
+    {
+      "titulo": "Saúde Preventiva",
+      "descricao": "Investir em programas de prevenção de doenças",
+      "area": "Saúde"
+    }
+  ],
+  "fontes": [
+    {
+      "tipo": "TSE",
+      "url": "https://divulgacandcontas.tse.jus.br/",
+      "data_consulta": "2024-01-15"
+    }
+  ],
+  "atualizado_em": "2024-01-15T10:00:00Z"
+}

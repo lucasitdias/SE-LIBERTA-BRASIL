@@ -1,0 +1,44 @@
+{
+  "id": "candidato-exemplo-001",
+  "nome": "João Carlos Oliveira",
+  "nome_urna": "João Oliveira",
+  "data_nascimento": "1985-08-12",
+  "partido": {
+    "sigla": "TESTE",
+    "nome": "Partido Teste",
+    "numero": 88
+  },
+  "cargo_pretendido": {
+    "titulo": "Prefeito",
+    "localidade": "Rio de Janeiro - RJ",
+    "eleicao": "2024"
+  },
+  "historico": [],
+  "contato": {
+    "email": "joao.oliveira@exemplo.com",
+    "website": "https://joaooliveira.exemplo.com",
+    "redes_sociais": {
+      "instagram": "https://instagram.com/joaooliveira"
+    }
+  },
+  "propostas": [
+    {
+      "titulo": "Mobilidade Urbana",
+      "descricao": "Melhorar o transporte público da cidade",
+      "area": "Infraestrutura"
+    },
+    {
+      "titulo": "Segurança Pública",
+      "descricao": "Aumentar policiamento em áreas críticas",
+      "area": "Segurança"
+    }
+  ],
+  "fontes": [
+    {
+      "tipo": "TSE",
+      "url": "https://divulgacandcontas.tse.jus.br/",
+      "data_consulta": "2024-01-20"
+    }
+  ],
+  "atualizado_em": "2024-01-20T14:30:00Z"
+}
